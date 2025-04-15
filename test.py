@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-import sys
-import logging
 
 logging.basicConfig(stream=sys.stderr, level='DEBUG', format='%(levelname)s: %(message)s')
 
